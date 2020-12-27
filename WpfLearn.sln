@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsStyleScollbar", "WindowsStyleScollbar\WindowsStyleScollbar.csproj", "{474A4941-A513-402D-9E23-3C42FB3DAD79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleStyleScollbar", "AppleStyleScollbar\AppleStyleScollbar.csproj", "{CC295763-B95B-4936-997B-57FEE36C3B9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleStyleScollbar", "AppleStyleScollbar\AppleStyleScollbar.csproj", "{CC295763-B95B-4936-997B-57FEE36C3B9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternationCount", "AlternationCount\AlternationCount.csproj", "{DF8F09B0-7B1F-4E57-BCAE-112538AA094D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CC295763-B95B-4936-997B-57FEE36C3B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC295763-B95B-4936-997B-57FEE36C3B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC295763-B95B-4936-997B-57FEE36C3B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8F09B0-7B1F-4E57-BCAE-112538AA094D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8F09B0-7B1F-4E57-BCAE-112538AA094D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8F09B0-7B1F-4E57-BCAE-112538AA094D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8F09B0-7B1F-4E57-BCAE-112538AA094D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
